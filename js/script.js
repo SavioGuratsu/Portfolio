@@ -9,6 +9,7 @@ menuIcon.onclick = () => {
     navbar.classList.toggle('active');
 }
 //toggle icon nav bar
+// teste
 
 let sections = document.querySelectorAll('section');
 let navLinks = document.querySelectorAll('header nav a');
